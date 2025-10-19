@@ -15,13 +15,11 @@ The app visually shows how much water you’ve consumed and how much is left to 
 
 🎨 Clean and minimal Flutter UI
 
-🧱 Tech Stack
-
 Flutter & Dart
 
 AnimatedContainer / CustomPainter for water animation
 
-Provider / State Management (or Cubit, if you used it)
+Set State Used
 
 SharedPreferences for saving progress
 
@@ -29,6 +27,3 @@ SharedPreferences for saving progress
 
 Add daily reminders and notifications
 
-Track weekly or monthly stats
-
-Support custom hydration goals per user
